@@ -1,0 +1,47 @@
+<nav class="navbar bg-gray-800 p-4 flex items-center justify-between">
+  <div class="nav--logo mr-4 flex-shrink-0 text-white">
+    <a class="text-2xl font-bold text-white" href="#">SB</a>
+  </div>
+
+  <ul class="nav--links flex space-x-4 text-white font-medium">
+    <li>
+      <a
+        [routerLink]="['/']"
+        routerLinkActive="router-link-active"
+        class="text-white hover:text-gray-300"
+        >Home</a
+      >
+    </li>
+    <li>
+      <a
+        [routerLink]="['/about']"
+        routerLinkActive="router-link-active"
+        class="text-white hover:text-gray-300"
+        >About</a
+      >
+    </li>
+    <li>
+      <a
+        [routerLink]="['/projects']"
+        routerLinkActive="router-link-active"
+        class="text-white hover:text-gray-300"
+        >Projects</a
+      >
+    </li>
+    <li>
+      <a
+        [routerLink]="['/contact']"
+        routerLinkActive="router-link-active"
+        class="text-white hover:text-gray-300"
+        >Contact</a
+      >
+    </li>
+  </ul>
+
+  <div class="nav--actions ml-auto flex space-x-2 text-white">
+    <span class="material-symbols-outlined" style="vertical-align: middle"
+      >mail</span
+    >
+    <span style="vertical-align: middle">{{ personalEmail }}</span>
+  </div>
+</nav>

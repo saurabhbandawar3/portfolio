@@ -1,0 +1,239 @@
+{
+    "personalInfo": {
+        "name": "Saurabh Bandawar",
+        "email": "sbandawar2@gmail.com",
+        "phone": "(704) 456-9889",
+        "linkedin": "https://www.linkedin.com/in/saurabh-b"
+    },
+    "technicalSummary": {
+        "webTechnologies": [
+            "HTML",
+            "HTML5",
+            "DHTML",
+            "CSS",
+            "CSS3",
+            "JSON",
+            "JavaScript",
+            "AJAX",
+            "jQuery",
+            "Bootstrap",
+            "ECMAScript 6",
+            "Typescript",
+            "Protractor",
+            "Jasmine"
+        ],
+        "libraries": [
+            "AngularJS",
+            "NodeJS",
+            "ReactJS",
+            "Angular10+"
+        ],
+        "languages": [
+            "Java",
+            "C++",
+            "Python"
+        ],
+        "ideTools": [
+            "Notepad++",
+            "Dreamweaver",
+            "Visual Studio"
+        ],
+        "methodologies": [
+            "Agile",
+            "Scrum",
+            "Waterfall"
+        ],
+        "databases": [
+            "MySQL",
+            "Oracle DB",
+            "MongoDB"
+        ],
+        "debugTools": [
+            "Firebug",
+            "Chrome Developer Toolbar",
+            "IE Developer Tool"
+        ],
+        "os": [
+            "Windows",
+            "Mac OS X",
+            "Linux"
+        ],
+        "applications": [
+            "GitHub",
+            "Photoshop",
+            "Sketch",
+            "Tableau",
+            "Figma"
+        ]
+    },
+    "experience": [
+        {
+            "company": "Data Economy",
+            "client": "J&J",
+            "title": "UI Lead and Developer",
+            "duration": "Oct 2023 – Present",
+            "technologies": [
+                "Angular",
+                "React",
+                "Material UI",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "TypeScript",
+                "Webpack",
+                "GraphQL",
+                "Axios"
+            ],
+            "responsibilities": [
+                "Led a cross-functional UI team of 15 developers",
+                "Architected scalable front-end solutions using Angular 16 and React",
+                "Improved performance with Webpack, lazy loading, and CI/CD",
+                "Integrated APIs using GraphQL and Axios",
+                "Built responsive and accessible UIs",
+                "Managed secure API communications",
+                "Conducted code reviews and mentored junior developers"
+            ]
+        },
+        {
+            "company": "Citi Bank",
+            "title": "Senior Software Developer",
+            "technologies": [
+                "Angular 16",
+                "TypeScript",
+                "ES6"
+            ],
+            "responsibilities": [
+                "Set up UI MFA Angular environment",
+                "Implemented reusable components and libs",
+                "Integrated APIs and handled DOM/CSS manipulation",
+                "Collaborated with QA and engineering teams"
+            ]
+        },
+        {
+            "company": "Collabera",
+            "client": "Bank of America",
+            "title": "Senior Software Developer",
+            "duration": "Jun 2023 – Oct 2023",
+            "technologies": [
+                "Angular 16",
+                "TypeScript",
+                "ES6"
+            ],
+            "responsibilities": [
+                "Upgraded legacy Angular CLI app",
+                "Used Angular routing, lifecycle hooks, and @Input/@Output",
+                "Performed API integrations and UI updates"
+            ]
+        },
+        {
+            "company": "Deloitte",
+            "client": "Transamerica",
+            "title": "Senior Software Developer",
+            "duration": "May 2022 – May 2023",
+            "technologies": [
+                "Angular 10+",
+                "HTML5",
+                "CSS3",
+                "SCSS",
+                "Figma"
+            ],
+            "responsibilities": [
+                "Interacted with business teams and UX designers",
+                "Implemented UI features using Angular 10+",
+                "Used lifecycle hooks, Angular services, and routing",
+                "Coordinated with QA and optimized cross-browser UI"
+            ]
+        },
+        {
+            "company": "L&T Infotech",
+            "client": "Citi Bank",
+            "title": "Senior Software Developer",
+            "duration": "Nov 2018 – May 2022",
+            "technologies": [
+                "Angular 7+",
+                "HTML5",
+                "SCSS",
+                "Oracle DB"
+            ],
+            "responsibilities": [
+                "Designed and developed JSON APIs",
+                "Worked on RESTful services and UI components",
+                "Collaborated with QA and optimized UI"
+            ]
+        },
+        {
+            "company": "Anagh Technologies Inc.",
+            "client": "Spectrum",
+            "title": "UI/Web Developer",
+            "duration": "Jun 2018 – Nov 2018",
+            "technologies": [
+                "Angular 4",
+                "NodeJS",
+                "MongoDB",
+                "CSS3",
+                "SASS"
+            ],
+            "responsibilities": [
+                "Created real-time dashboards and Angular widgets",
+                "Built responsive designs using Flexbox",
+                "Implemented REST APIs and AJAX logic"
+            ]
+        },
+        {
+            "company": "Amphora Inc.",
+            "title": "Software Developer",
+            "duration": "May 2017 – Dec 2017",
+            "technologies": [
+                "AngularJS",
+                "Angular 2",
+                "Node.js",
+                "Cordova",
+                "Chart.js",
+                "Highcharts"
+            ],
+            "responsibilities": [
+                "Developed APIs and responsive front-ends",
+                "Built dynamic forms and dashboards",
+                "Used Git and SourceTree for source control"
+            ]
+        },
+        {
+            "company": "Notus Technologies",
+            "title": "Web Developer",
+            "duration": "Aug 2015 – Aug 2016",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "C#",
+                "AngularJS",
+                "NodeJS"
+            ],
+            "responsibilities": [
+                "Designed and developed UI web pages",
+                "Used Angular and Node for MVC architecture",
+                "Built dynamic forms and data validation logic"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "school": "Pace University, Seidenberg School of Computer Science and Information Systems",
+            "location": "New York, NY",
+            "degree": "MS in Information Systems",
+            "year": "2018"
+        },
+        {
+            "school": "Mumbai University, Rajiv Gandhi Institute of Technology",
+            "location": "Maharashtra, India",
+            "degree": "BE in Computer Science",
+            "year": "2015"
+        }
+    ],
+    "certifications": [
+        "HTML, CSS, and JavaScript - Hong Kong University of Science and Technology",
+        "Python - University of Michigan",
+        "Ionic3 and Firebase - Udemy",
+        "Angular and Firebase - Udemy"
+    ]
+}
